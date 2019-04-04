@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
-img_path = '../dataset/img/60'
-audio_path = '../dataset/audio/60'
+img_path = '../audio_to_img/img/60'
+audio_path = '../audio_to_img/audio/60'
 
 wav_filenames = os.listdir(audio_path)
 for wav_filename in wav_filenames:

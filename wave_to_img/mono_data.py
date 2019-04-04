@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os, sys
 
-audio_path = '../dataset/audio/' + sys.argv[1]
-img_path = '../dataset/img/' + sys.argv[1]
+audio_path = '../audio_to_img/audio/' + sys.argv[1]
+img_path = '../audio_to_img/img/' + sys.argv[1]
 #argv[1] MIDI label
 
 wav_filename = sys.argv[2]
