@@ -1,0 +1,17 @@
+title: mono
+composer: Jasli
+beats: 4
+tempo: 120
+
+voice Mono
+{
+	program: 5
+	channel: 1
+	octave: 0
+	volume: 107
+}
+
+play Mono
+{
+	:|E-------|
+}
