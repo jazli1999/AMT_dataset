@@ -1,4 +1,8 @@
 *.melo
+*.mid
 *.png
 
-*/wave_to_img/*/*.*
+out/
+audio/
+text/
+img/
