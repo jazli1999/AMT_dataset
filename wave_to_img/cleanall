@@ -1,5 +1,0 @@
-rm -r -f img
-rm -r -f ../out
-
-mkdir img
-mkdir ../out

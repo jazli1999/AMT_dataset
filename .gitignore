@@ -2,7 +2,7 @@
 *.mid
 *.png
 
-*/cleanall
+*/clean
 
 out/
 audio/
@@ -11,3 +11,4 @@ img/
 complex_audio/
 .idea/
 __pycache__/
+text_to_wave/original/

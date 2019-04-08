@@ -1,7 +1,0 @@
-rm -r -f text
-rm -r -f audio
-rm -r -f midi
-
-mkdir text
-mkdir audio
-mkdir midi
