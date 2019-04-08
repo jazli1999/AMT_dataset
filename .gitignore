@@ -2,7 +2,12 @@
 *.mid
 *.png
 
+*/cleanall
+
 out/
 audio/
 text/
 img/
+complex_audio/
+.idea/
+__pycache__/
