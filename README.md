@@ -52,5 +52,3 @@ two wonderful & easy-to-use program:
 - [librosa - Python library for audio and music analysis](https://github.com/librosa/librosa)  
 - [melo - A music notation language and compiler to MIDI](https://github.com/Mistodon/melo)  
 
-![Our logo: TrOctave](logo/logo.jpg)  
-
