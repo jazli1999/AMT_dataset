@@ -1,3 +1,5 @@
+<img align="right" src="logo/logo.jpg" height="200">
+
 # README  
 ---  
 Technical attempts for building our own AMT dataset.  
