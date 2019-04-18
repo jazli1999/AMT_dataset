@@ -1,4 +1,4 @@
-<img align="right" src="logo/logo.jpg" height="200">
+<img align="left" src="logo/logo.jpg" height="200">
 
 # README  
 ---  
