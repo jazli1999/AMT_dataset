@@ -5,7 +5,7 @@
 Technical attempts for building our own AMT dataset.  
 Repo for personal use, keeping track of all the possible methods, but not the final solution.  
 
-Only works on Linux for it contains pretty much system path operation.  
+Only tested on linux.  
 
 ## Doc  
 - [text\_to\_wave](./text_to_wave)  
